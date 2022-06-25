@@ -1,5 +1,5 @@
 # Adult-Income-Prediction
-This is a demo on building a machine learning model for a classification problem and related interpretation.
+This is a demo on building machine learning models for a classification problem and related interpretation.
 
 You may click on the above files directly to view the content.
 
