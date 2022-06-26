@@ -1,7 +1,7 @@
 # Adult-Income-Prediction
 This is a demo on building machine learning models for a classification problem and related interpretation.
 
-You may click on the above files directly to view the content.
+You may click on the above files directly to view the content - Python codes, explanatory slides.
 
 ## Objectives
 Using a small dataset from U.S. Census Database in 1994, I will demonstrate how a machine learning pipeline is implemented, in building a model for predicting adult income based on individual characteristics. The attached slides and Python codes will showcase the following:
